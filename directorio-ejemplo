@@ -1,0 +1,2 @@
+mkdir directorio-ejemplo
+echo "Primera estrofa del himno nacional..." > directorio-ejemplo/himnonacional.txt
